@@ -1,0 +1,44 @@
+{
+	"manifest_version": 3,
+	"version": 			"1",
+
+	"name": 		"Ecchi Theme",
+	"description": 	"It is an Ecchi",
+
+	"theme": {
+		"images": {
+			"theme_tab_background": "Asset/Theme/Tab_Background.png",
+			"theme_toolbar": 		"Asset/Theme/Toolbar.png"
+		},
+
+		"colors": {
+			"frame": 					[ 0  , 0  , 0   ],
+			"frame_inactive": 			[ 20 , 20 , 20  ],
+			"frame_incognito": 			[ 0  , 0  , 0   ],
+			"frame_incognito_inactive": [ 30 , 5  , 20  ],
+			"frame_incognito_inactive": [ 30 , 5  , 20  ],
+
+			"bookmark_text": [ 255, 255, 255 ],
+
+			"tab_background_text": 						[ 255, 0  , 85  ],
+			"tab_background_text_inactive": 			[ 95 , 135, 255 ],
+			"tab_background_text_incognito": 			[ 255, 0  , 85  ],
+			"tab_background_text_incognito_inactive": 	[ 95 , 135, 255 ],
+			"tab_text": 								[ 255, 255, 255 ],
+
+			"toolbar": 				[ 0  , 0  , 0   ],
+			"toolbar_button_icon": 	[ 124, 0  , 255 ],
+			"omnibox_text": 		[ 190, 105, 255 ],
+			"omnibox_background": 	[ 0  , 0  , 0   ]
+		}
+	},
+
+	"icons": {
+		//	"16":	"Asset/Icon/16.png",
+		//	"48": 	"Asset/Icon/48.png",
+		//	"128":	"Asset/Icon/128.png",
+		//	"256":	"Asset/Icon/256.png",
+		//	"512":	"Asset/Icon/512.png"
+		"2000": "Asset/Icon/2000.png"
+	}
+}
