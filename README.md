@@ -13,8 +13,8 @@ I don't know your using OS. But it have built-in extract function, if you using 
 Or if your using Linux, there are `p7zip`, `unzip` etc...
 ### 3. Install it
 #### 3-1. Open _`chrome://extension`_
-> Windows > Press `Ctrl` + `Shift` + `X`
-> Linux > Press `Ctrl` + `Shift` + `X`
+> Windows > Press `Ctrl` + `Shift` + `X` <br/>
+> Linux > Press `Ctrl` + `Shift` + `X` <br/>
 > MacOS > IDK
 #### 3-2. Turn on __`Developer mode`__
 #### 3-3. Press __`Load unpacked`__, then select unpacked directory to Install
